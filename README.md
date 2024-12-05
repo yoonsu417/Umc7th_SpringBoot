@@ -1,1 +1,1 @@
-# Umc7th_SpringBoot
+# UMC-7th-spring-workbook
